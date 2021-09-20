@@ -1,1 +1,1 @@
-# subj_mining
+# Subjectivity Mining - assignment 2
